@@ -3,6 +3,7 @@
 
 ## Программирование
 [Знакомство с Markdown](https://github.com/DementedJim/Markdown)
+[Лабораторная работа 18.10.2018](https://github.com/DementedJim/18-10-2018-Python)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
