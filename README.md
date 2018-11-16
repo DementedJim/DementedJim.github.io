@@ -7,6 +7,9 @@
 [Лабораторная работа 18.10.2018](https://github.com/DementedJim/18-10-2018-Python)
 
 
+## Программирование
+[Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
