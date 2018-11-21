@@ -10,6 +10,8 @@
 
 [Самостоятельная работа 2 [vol. 2]](https://repl.it/@PietrSidorovich/Zadaniie-3-Samostoiatielnaia-rabota-2)
 
+[Факториал](https://repl.it/@PietrSidorovich/Faktorial)
+
 
 ## Программирование
 [Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
