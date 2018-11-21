@@ -6,6 +6,9 @@
 
 [Лабораторная работа 18.10.2018](https://github.com/DementedJim/18-10-2018-Python)
 
+[Самостоятельная работа 2 [vol. 1]](https://repl.it/@PietrSidorovich/Zadaniie-1-2-Samostoiatielnaia-rabota-2)
+[Самостоятельная работа 2 [vol. 2]](https://repl.it/@PietrSidorovich/Zadaniie-3-Samostoiatielnaia-rabota-2)
+
 
 ## Программирование
 [Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
