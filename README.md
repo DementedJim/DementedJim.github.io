@@ -12,6 +12,8 @@
 
 [Самостоятельная работа 2 [vol. 2]](https://repl.it/@PietrSidorovich/Zadaniie-3-Samostoiatielnaia-rabota-2)
 
+[Задание 2.3](https://repl.it/@PietrSidorovich/Zadaniie-23)
+
 [Факториал](https://repl.it/@PietrSidorovich/Faktorial)
 
 
