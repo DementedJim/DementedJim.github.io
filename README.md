@@ -4,6 +4,8 @@
 ## Программирование
 [Знакомство с Markdown](https://github.com/DementedJim/Markdown)
 
+[Лабораторная работа 2](https://repl.it/@PietrSidorovich/Laboratornaia-rabota-2-Python)
+
 [Лабораторная работа 18.10.2018](https://github.com/DementedJim/18-10-2018-Python)
 
 [Самостоятельная работа 2 [vol. 1]](https://repl.it/@PietrSidorovich/Zadaniie-1-2-Samostoiatielnaia-rabota-2)
