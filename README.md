@@ -14,6 +14,8 @@
 
 [Задание 2.3](https://repl.it/@PietrSidorovich/Zadaniie-23)
 
+[Лабораторная работа 3](https://repl.it/@PietrSidorovich/Laboratornaia-rabota-3-20-09-18)
+
 [Факториал](https://repl.it/@PietrSidorovich/Faktorial)
 
 
