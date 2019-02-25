@@ -8,9 +8,23 @@
 
 [Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
 
-[Занятие 13-10-2018](https://github.com/DementedJim/13-10-2018-Final)
+[XSD схема] (https://github.com/DementedJim/xsd_scheme/)
 
-[Heroku](https://github.com/DementedJim/herokudemo1)
+[Введение в JS] (https://github.com/DementedJim/22-09-2018)
+
+[Функции в JS] (https://github.com/DementedJim/jsfunctions)
+
+[Генерация документации по комментам](https://github.com/DementedJim/13-10-2018-Final)
+
+[Счетчик] (https://github.com/DementedJim/counter)
+
+[Объекты. Контекст. Байндинг](https://github.com/DementedJim/context_binding)
+
+[Коллбэки] (https://github.com/DementedJim/callbacks)
+
+[Введение в DOM] (https://github.com/DementedJim/into_dom/)
+
+[Прототипы] (https://kodaktor.ru/zzzzzzz_ebd11)
 
 
 
@@ -34,6 +48,7 @@
 
 
 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -53,5 +68,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+[Heroku](https://github.com/DementedJim/herokudemo1)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
