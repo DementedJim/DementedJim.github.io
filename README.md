@@ -8,23 +8,23 @@
 
 [Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
 
-[XSD схема] (https://github.com/DementedJim/xsd_scheme/)
+[XSD схема](https://github.com/DementedJim/xsd_scheme/)
 
-[Введение в JS] (https://github.com/DementedJim/22-09-2018)
+[Введение в JS](https://github.com/DementedJim/22-09-2018)
 
-[Функции в JS] (https://github.com/DementedJim/jsfunctions)
+[Функции в JS](https://github.com/DementedJim/jsfunctions)
 
 [Генерация документации по комментам](https://github.com/DementedJim/13-10-2018-Final)
 
-[Счетчик] (https://github.com/DementedJim/counter)
+[Счетчик](https://github.com/DementedJim/counter)
 
 [Объекты. Контекст. Байндинг](https://github.com/DementedJim/context_binding)
 
-[Коллбэки] (https://github.com/DementedJim/callbacks)
+[Коллбэки](https://github.com/DementedJim/callbacks)
 
-[Введение в DOM] (https://github.com/DementedJim/into_dom/)
+[Введение в DOM](https://github.com/DementedJim/into_dom/)
 
-[Прототипы] (https://kodaktor.ru/zzzzzzz_ebd11)
+[Прототипы](https://kodaktor.ru/zzzzzzz_ebd11)
 
 
 
