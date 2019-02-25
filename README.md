@@ -1,6 +1,16 @@
 
 # Портфолио студента Иванова Дмитрия
 
+## Веб-программирование
+[Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
+
+[Занятие 13-10-2018](https://github.com/DementedJim/13-10-2018-Final)
+
+[Heroku](https://github.com/DementedJim/herokudemo1)
+
+[XML-XTD](https://github.com/DementedJim/XML-DTD-08-09-2018)
+
+
 ## Программирование
 [Знакомство с Markdown](https://github.com/DementedJim/Markdown)
 
@@ -19,8 +29,7 @@
 [Факториал](https://repl.it/@PietrSidorovich/Faktorial)
 
 
-## Программирование
-[Лабораторное занятие 06.09.2018 и 08.09.2018](https://github.com/DementedJim/XML-DTD-08-09-2018)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
