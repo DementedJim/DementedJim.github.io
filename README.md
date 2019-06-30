@@ -9,6 +9,19 @@
 
 [FUNC-003](https://kodaktor.ru/?!=func_fb7c3)
 
+[FUNC-004](https://kodaktor.ru/?!=func_799a4)
+
+[FUNC-005](https://kodaktor.ru/?!=task_func_4f0c8)
+
+[FUNC-006](https://kodaktor.ru/?!=func_8fd8c)
+
+[FUNC-007]()
+
+[FUNC-008]()
+
+[FUNC-009](https://kodaktor.ru/?!=func_15a43)
+
+[FUNC-10]()
 
 
 
