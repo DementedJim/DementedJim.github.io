@@ -21,7 +21,9 @@
 
 [FUNC-009](https://kodaktor.ru/?!=func_15a43)
 
-[FUNC-10](https://kodaktor.ru/?!=func_80b66)
+[FUNC-010](https://kodaktor.ru/?!=func_80b66)
+
+[EVNT-002](https://kodaktor.ru/?!=custom_e106f)
 
 
 
