@@ -21,7 +21,7 @@
 
 [FUNC-009](https://kodaktor.ru/?!=func_15a43)
 
-[FUNC-10]()
+[FUNC-10](https://kodaktor.ru/?!=func_80b66)
 
 
 
