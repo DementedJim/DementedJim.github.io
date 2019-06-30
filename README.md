@@ -29,7 +29,7 @@
 
 [CART](https://kodaktor.ru/custom_2ac34)
 
-[CANV](https://kodaktor.ru/canvas_b5515)
+[CANV]
 
 [BABL-002](https://kodaktor.ru/bind02032018_38b65)
 
