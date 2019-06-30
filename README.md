@@ -4,8 +4,12 @@
 ## Портфолио к экзамену по модулю “Проектирование и разработка веб-решений”
 
 [FUNC-001](https://kodaktor.ru/?!=task_func_ad8dc)
+
 [FUNC-002](https://kodaktor.ru/?!=func_26c02)
+
 [FUNC-003](https://kodaktor.ru/?!=func_fb7c3)
+
+
 
 
 
