@@ -3,33 +3,33 @@
 
 ## Портфолио к экзамену по модулю “Проектирование и разработка веб-решений”
 
-[FUNC-001](https://kodaktor.ru/?!=task_func_ad8dc)
+[FUNC-001](https://kodaktor.ru/task_func_282ff)
 
-[FUNC-002](https://kodaktor.ru/?!=func_26c02)
+[FUNC-002](https://kodaktor.ru/func_29440)
 
-[FUNC-003](https://kodaktor.ru/?!=func_fb7c3)
+[FUNC-003](https://kodaktor.ru/func_a3765)
 
-[FUNC-004](https://kodaktor.ru/?!=func_799a4)
+[FUNC-004](https://kodaktor.ru/func_e29ff)
 
-[FUNC-005](https://kodaktor.ru/?!=task_func_4f0c8)
+[FUNC-005](https://kodaktor.ru/task_func_6522d)
 
-[FUNC-006](https://kodaktor.ru/?!=func_8fd8c)
+[FUNC-006](https://kodaktor.ru/func_00440)
 
-[FUNC-007](https://kodaktor.ru/?!=func_c0904)
+[FUNC-007](https://kodaktor.ru/func_3633d)
 
 [FUNC-008]()
 
-[FUNC-009](https://kodaktor.ru/?!=func_15a43)
+[FUNC-009](https://kodaktor.ru/func_123de)
 
-[FUNC-010](https://kodaktor.ru/?!=func_80b66)
+[FUNC-010](https://kodaktor.ru/func_56254)
 
-[EVNT-002](https://kodaktor.ru/?!=custom_e106f)
+[EVNT-002](https://kodaktor.ru/custom_39095)
 
 [BNDL-001](https://dementedjim.github.io/moment_bundle/)
 
-[CART](https://kodaktor.ru/?!=custom_26cb3)
+[CART](https://kodaktor.ru/custom_2ac34)
 
-[CANV](https://kodaktor.ru/?!=canvas_f2ec2)
+[CANV](https://kodaktor.ru/canvas_b5515)
 
 
 
