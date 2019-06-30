@@ -15,7 +15,7 @@
 
 [FUNC-006](https://kodaktor.ru/?!=func_8fd8c)
 
-[FUNC-007]()
+[FUNC-007](https://kodaktor.ru/?!=func_c0904)
 
 [FUNC-008]()
 
