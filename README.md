@@ -35,6 +35,8 @@
 
 [FRMW-001](https://kodaktor.ru/react_6741c)
 
+[IPS](https://kodaktor.ru/?!=task_852df)
+
 
 ## Веб-программирование
 [Установка  Node.js](https://github.com/DementedJim/Node.js-First-week-installing-node-/)
