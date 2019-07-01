@@ -33,7 +33,7 @@
 
 [BABL-002](https://kodaktor.ru/bind02032018_38b65)
 
-[FRMW-001](https://kodaktor.ru/react_390dc)
+[FRMW-001](https://kodaktor.ru/react_6741c)
 
 
 ## Веб-программирование
