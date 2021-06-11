@@ -4,16 +4,16 @@
 
 ## Портфолио к экзамену по модулю “Проектирование и разработка веб-решений”
 
-<details><summary>Портфоли, допустим</summary>
-
-[FUNC-001](https://kodaktor.ru/task_func_282ff)
-
-[FUNC-002](https://kodaktor.ru/func_29440)
-
-[FUNC-003](https://kodaktor.ru/func_a3765)
-
-[FUNC-004](https://kodaktor.ru/func_e29ff)
-
+<details>
+<summary>Heading</summary>
+<ul>
+<li> markdown list 1</li>
+<ul>
+<li> nested list 1</li>
+<li> nested list 2</li>
+</ul>
+<li> markdown list 2</li>
+</ul>
 </details>
 
 [FUNC-001](https://kodaktor.ru/task_func_282ff)
