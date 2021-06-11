@@ -4,11 +4,15 @@
 
 ## Портфолио к экзамену по модулю “Проектирование и разработка веб-решений”
 
-<details><summary>A dropdown list for markdown</summary>
+<details><summary>Портфоли, допустим</summary>
 
-   1. First item must be preceeded with an empty line.
-   1. Markdown renders **perfectly**.
-   1. Extra item.
+[FUNC-001](https://kodaktor.ru/task_func_282ff)
+
+[FUNC-002](https://kodaktor.ru/func_29440)
+
+[FUNC-003](https://kodaktor.ru/func_a3765)
+
+[FUNC-004](https://kodaktor.ru/func_e29ff)
 
 </details>
 
