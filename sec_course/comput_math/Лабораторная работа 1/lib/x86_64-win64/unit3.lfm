@@ -1,0 +1,121 @@
+object VariableStep: TVariableStep
+  Left = 449
+  Height = 593
+  Top = 198
+  Width = 514
+  Caption = 'Методы с переменным шагом'
+  ClientHeight = 593
+  ClientWidth = 514
+  Color = 16311507
+  Font.Height = -13
+  OnShow = FormShow
+  LCLVersion = '1.8.4.0'
+  object SecAlg: TButton
+    Left = 22
+    Height = 52
+    Top = 409
+    Width = 246
+    Caption = 'Метод по 2 алгоритму'
+    Font.Height = -13
+    OnClick = SecAlgClick
+    ParentFont = False
+    TabOrder = 0
+  end
+  object EscapeButton: TButton
+    Left = 22
+    Height = 35
+    Top = 497
+    Width = 473
+    Caption = 'Главное меню'
+    Font.Height = -13
+    OnClick = EscapeButtonClick
+    ParentFont = False
+    TabOrder = 1
+  end
+  object FirstAlgMethod: TEdit
+    Left = 280
+    Height = 25
+    Top = 331
+    Width = 215
+    Font.Height = -13
+    ParentFont = False
+    ReadOnly = True
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 65
+    Height = 37
+    Top = 30
+    Width = 407
+    Caption = 'Методы с переменным шагом'
+    Font.Height = -27
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Image1: TImage
+    Left = 203
+    Height = 105
+    Top = 88
+    Width = 131
+  end
+  object SecAlgMethod: TEdit
+    Left = 280
+    Height = 25
+    Top = 421
+    Width = 215
+    Font.Height = -13
+    ParentFont = False
+    TabOrder = 3
+  end
+  object nEdit: TEdit
+    Left = 280
+    Height = 25
+    Top = 235
+    Width = 215
+    Font.Height = -13
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 4
+    Text = '100'
+  end
+  object EpsEdit: TEdit
+    Left = 280
+    Height = 25
+    Top = 280
+    Width = 215
+    Font.Height = -13
+    ParentFont = False
+    TabOrder = 5
+    Text = '0,001'
+  end
+  object Label2: TLabel
+    Left = 16
+    Height = 28
+    Top = 230
+    Width = 252
+    Caption = 'Введите кол-во разбиений:'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 180
+    Height = 28
+    Top = 275
+    Width = 88
+    Caption = 'Точность:'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object FirstAlg: TButton
+    Left = 22
+    Height = 52
+    Top = 320
+    Width = 246
+    Caption = 'Метод по 1 алгоритму'
+    OnClick = FirstAlgClick
+    TabOrder = 6
+  end
+end

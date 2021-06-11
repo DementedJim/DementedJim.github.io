@@ -1,0 +1,140 @@
+object ConstStep: TConstStep
+  Left = 363
+  Height = 623
+  Top = 82
+  Width = 516
+  BorderStyle = bsSingle
+  Caption = 'Методы с постоянным шагом'
+  ClientHeight = 623
+  ClientWidth = 516
+  Color = 16311507
+  Font.Height = -13
+  OnShow = FormShow
+  LCLVersion = '1.8.4.0'
+  object RightParts: TButton
+    Left = 40
+    Height = 52
+    Top = 256
+    Width = 246
+    Caption = 'Метод правых частей прямоугольника'
+    Font.Height = -13
+    OnClick = RightPartsClick
+    ParentFont = False
+    TabOrder = 0
+  end
+  object LeftParts: TButton
+    Left = 40
+    Height = 52
+    Top = 328
+    Width = 246
+    Caption = 'Метод левых частей прямоугольника'
+    Font.Height = -13
+    OnClick = LeftPartsClick
+    ParentFont = False
+    TabOrder = 1
+  end
+  object Trapeze: TButton
+    Left = 40
+    Height = 52
+    Top = 400
+    Width = 246
+    Caption = 'Метод трапеций'
+    Font.Height = -13
+    OnClick = TrapezeClick
+    ParentFont = False
+    TabOrder = 2
+  end
+  object Parabola: TButton
+    Left = 40
+    Height = 52
+    Top = 469
+    Width = 246
+    Caption = 'Метод парабол'
+    Font.Height = -13
+    OnClick = ParabolaClick
+    ParentFont = False
+    TabOrder = 3
+  end
+  object Escape: TButton
+    Left = 40
+    Height = 35
+    Top = 552
+    Width = 457
+    Caption = 'Главное меню'
+    Font.Height = -13
+    OnClick = EscapeClick
+    ParentFont = False
+    TabOrder = 4
+  end
+  object Label1: TLabel
+    Left = 65
+    Height = 37
+    Top = 30
+    Width = 398
+    Caption = 'Методы с постоянным шагом'
+    Font.Height = -27
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object RightPartsMethod: TEdit
+    Left = 301
+    Height = 25
+    Top = 267
+    Width = 196
+    Font.Height = -13
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 5
+  end
+  object LeftPartsMethod: TEdit
+    Left = 299
+    Height = 25
+    Top = 340
+    Width = 198
+    Font.Height = -13
+    ParentFont = False
+    TabOrder = 6
+  end
+  object TrapezeMethod: TEdit
+    Left = 301
+    Height = 25
+    Top = 410
+    Width = 196
+    TabOrder = 7
+  end
+  object ParabolaMethod: TEdit
+    Left = 301
+    Height = 25
+    Top = 479
+    Width = 196
+    TabOrder = 8
+  end
+  object Image1: TImage
+    Left = 203
+    Height = 105
+    Top = 88
+    Width = 131
+  end
+  object StepHeader: TLabel
+    Left = 40
+    Height = 28
+    Top = 209
+    Width = 246
+    Caption = 'Введите количество шагов'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Step: TEdit
+    Left = 301
+    Height = 29
+    Top = 211
+    Width = 196
+    Font.Height = -16
+    NumbersOnly = True
+    ParentFont = False
+    TabOrder = 9
+    Text = '100'
+  end
+end
