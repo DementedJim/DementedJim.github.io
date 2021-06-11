@@ -1,0 +1,177 @@
+object Form1: TForm1
+  Left = 518
+  Height = 450
+  Top = 227
+  Width = 847
+  BorderStyle = bsSingle
+  Caption = 'График функции'
+  ClientHeight = 450
+  ClientWidth = 847
+  Color = clGradientActiveCaption
+  LCLVersion = '1.8.4.0'
+  object KA: TEdit
+    Left = 56
+    Height = 23
+    Top = 59
+    Width = 80
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 24
+    Height = 15
+    Top = 62
+    Width = 8
+    Caption = 'A'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 24
+    Height = 15
+    Top = 100
+    Width = 7
+    Caption = 'B'
+    ParentColor = False
+  end
+  object KB: TEdit
+    Left = 56
+    Height = 23
+    Top = 98
+    Width = 80
+    OnKeyPress = KBKeyPress
+    TabOrder = 1
+    Text = '0'
+  end
+  object Label3: TLabel
+    Left = 24
+    Height = 15
+    Top = 139
+    Width = 8
+    Caption = 'C'
+    ParentColor = False
+  end
+  object KC: TEdit
+    Left = 56
+    Height = 23
+    Top = 137
+    Width = 80
+    TabOrder = 2
+    Text = '0'
+  end
+  object Label4: TLabel
+    Left = 32
+    Height = 15
+    Top = 176
+    Width = 146
+    Caption = 'Введите диапазон графика'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 24
+    Height = 15
+    Top = 210
+    Width = 31
+    Caption = 'X min'
+    ParentColor = False
+  end
+  object XMN: TEdit
+    Left = 80
+    Height = 23
+    Top = 207
+    Width = 56
+    TabOrder = 3
+    Text = '0'
+  end
+  object YMN: TEdit
+    Left = 80
+    Height = 23
+    Top = 245
+    Width = 56
+    TabOrder = 4
+    Text = '0'
+  end
+  object Label6: TLabel
+    Left = 24
+    Height = 15
+    Top = 245
+    Width = 31
+    Caption = 'Y min'
+    ParentColor = False
+  end
+  object Label7: TLabel
+    Left = 156
+    Height = 15
+    Top = 210
+    Width = 32
+    Caption = 'X max'
+    ParentColor = False
+  end
+  object Label8: TLabel
+    Left = 156
+    Height = 15
+    Top = 245
+    Width = 32
+    Caption = 'Y max'
+    ParentColor = False
+  end
+  object XMX: TEdit
+    Left = 208
+    Height = 23
+    Top = 207
+    Width = 56
+    TabOrder = 5
+    Text = '0'
+  end
+  object YMX: TEdit
+    Left = 210
+    Height = 23
+    Top = 245
+    Width = 55
+    TabOrder = 6
+    Text = '0'
+  end
+  object StartButton: TButton
+    Left = 24
+    Height = 41
+    Top = 305
+    Width = 240
+    Caption = 'Построить'
+    Enabled = False
+    OnClick = StartButtonClick
+    TabOrder = 7
+  end
+  object Label9: TLabel
+    Left = 24
+    Height = 15
+    Top = 33
+    Width = 131
+    Caption = 'Введите коэффициенты'
+    ParentColor = False
+  end
+  object Image1: TImage
+    Left = 307
+    Height = 345
+    Top = 21
+    Width = 525
+  end
+  object StaticText1: TStaticText
+    Left = 368
+    Height = 232
+    Top = 95
+    Width = 445
+    Caption = 'ОШИБКА. ЗНАМЕНАТЕЛЬ = 0'
+    Font.Height = -33
+    ParentFont = False
+    TabOrder = 8
+    Visible = False
+  end
+  object StaticText2: TStaticText
+    Left = 339
+    Height = 55
+    Top = 398
+    Width = 504
+    Caption = 'Выполнил: Иванов Дмитрий'
+    TabOrder = 9
+  end
+end

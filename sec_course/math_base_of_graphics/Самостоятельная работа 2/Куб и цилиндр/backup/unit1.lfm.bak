@@ -1,0 +1,34 @@
+object Form1: TForm1
+  Left = 153
+  Height = 355
+  Top = 148
+  Width = 371
+  Caption = 'Form1'
+  ClientHeight = 355
+  ClientWidth = 371
+  Color = clGray
+  LCLVersion = '1.8.4.0'
+  object Image1: TImage
+    Left = 26
+    Height = 220
+    Top = 30
+    Width = 322
+  end
+  object Button1: TButton
+    Left = 72
+    Height = 22
+    Top = 265
+    Width = 251
+    Caption = 'Нарисовать'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 190
+    Height = 15
+    Top = 323
+    Width = 158
+    Caption = 'Выполнил: Иванов Дмитрий'
+    ParentColor = False
+  end
+end

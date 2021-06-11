@@ -1,0 +1,115 @@
+object Form1: TForm1
+  Left = 346
+  Height = 238
+  Top = 294
+  Width = 500
+  AutoSize = True
+  BorderStyle = bsSingle
+  Caption = 'Калькулятор'
+  ClientHeight = 238
+  ClientWidth = 500
+  Color = clMenuHighlight
+  LCLVersion = '1.6.4.0'
+  object Button1: TButton
+    Left = 223
+    Height = 32
+    Top = 53
+    Width = 79
+    Caption = '+'
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 223
+    Height = 32
+    Top = 102
+    Width = 79
+    Caption = '/'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 307
+    Height = 32
+    Top = 102
+    Width = 79
+    Caption = '*'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 307
+    Height = 32
+    Top = 53
+    Width = 79
+    Caption = '-'
+    OnClick = Button4Click
+    TabOrder = 3
+  end
+  object Edit3: TEdit
+    Left = 129
+    Height = 23
+    Top = 152
+    Width = 255
+    NumbersOnly = True
+    ReadOnly = True
+    TabOrder = 4
+    Text = '0'
+  end
+  object StaticText2: TStaticText
+    Left = 69
+    Height = 23
+    Top = 98
+    Width = 60
+    Caption = 'Число В'
+    TabOrder = 5
+  end
+  object StaticText3: TStaticText
+    Left = 69
+    Height = 23
+    Top = 62
+    Width = 60
+    Caption = 'Число А'
+    TabOrder = 6
+  end
+  object StaticText4: TStaticText
+    Left = 69
+    Height = 23
+    Top = 152
+    Width = 60
+    Caption = 'Результат'
+    TabOrder = 7
+  end
+  object StaticText5: TStaticText
+    Left = 184
+    Height = 23
+    Top = 188
+    Width = 202
+    Caption = 'Работу выполнил: Иванов Дмитрий'
+    TabOrder = 8
+  end
+  object FloatSpinEdit1: TFloatSpinEdit
+    Left = 129
+    Height = 23
+    Top = 60
+    Width = 81
+    DecimalPlaces = 7
+    Increment = 1
+    MaxValue = 999999999
+    MinValue = -999999999
+    TabOrder = 9
+    Value = 0
+  end
+  object FloatSpinEdit2: TFloatSpinEdit
+    Left = 129
+    Height = 23
+    Top = 97
+    Width = 81
+    DecimalPlaces = 7
+    Increment = 1
+    MaxValue = 999999999
+    MinValue = -999999999
+    TabOrder = 10
+    Value = 0
+  end
+end

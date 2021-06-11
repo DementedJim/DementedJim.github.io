@@ -1,0 +1,176 @@
+object Form1: TForm1
+  Left = 117
+  Height = 387
+  Top = 106
+  Width = 687
+  BorderStyle = bsSizeToolWin
+  Caption = 'График'
+  ClientHeight = 387
+  ClientWidth = 687
+  Color = clGradientActiveCaption
+  LCLVersion = '1.8.4.0'
+  object KA: TEdit
+    Left = 41
+    Height = 23
+    Top = 32
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 0
+    Text = '2'
+  end
+  object KB: TEdit
+    Left = 41
+    Height = 23
+    Top = 71
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 1
+    Text = '0'
+  end
+  object KC: TEdit
+    Left = 41
+    Height = 23
+    Top = 112
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 2
+    Text = '-7'
+  end
+  object XMN: TEdit
+    Left = 41
+    Height = 23
+    Top = 160
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 3
+    Text = '-10'
+  end
+  object XMX: TEdit
+    Left = 41
+    Height = 23
+    Top = 208
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 4
+    Text = '10'
+  end
+  object YMN: TEdit
+    Left = 41
+    Height = 23
+    Top = 256
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 5
+    Text = '-10'
+  end
+  object YMX: TEdit
+    Left = 41
+    Height = 23
+    Top = 304
+    Width = 90
+    OnChange = KAChange
+    OnKeyPress = KAKeyPress
+    TabOrder = 6
+    Text = '10'
+  end
+  object Label1: TLabel
+    Left = 25
+    Height = 17
+    Top = 32
+    Width = 8
+    Caption = 'A'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 25
+    Height = 17
+    Top = 71
+    Width = 7
+    Caption = 'B'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 25
+    Height = 17
+    Top = 114
+    Width = 8
+    Caption = 'C'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 6
+    Height = 17
+    Top = 161
+    Width = 29
+    Caption = 'Xmin'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 3
+    Height = 17
+    Top = 209
+    Width = 32
+    Caption = 'Xmax'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 7
+    Height = 17
+    Top = 257
+    Width = 28
+    Caption = 'Ymin'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label7: TLabel
+    Left = 4
+    Height = 17
+    Top = 305
+    Width = 31
+    Caption = 'Ymax'
+    Font.Height = -13
+    ParentColor = False
+    ParentFont = False
+  end
+  object Image1: TImage
+    Left = 171
+    Height = 295
+    Top = 32
+    Width = 492
+  end
+  object StartButton: TButton
+    Left = 3
+    Height = 33
+    Top = 337
+    Width = 660
+    Caption = 'Нарисовать'
+    OnClick = StartButtonClick
+    TabOrder = 7
+  end
+  object Label8: TLabel
+    Left = 320
+    Height = 15
+    Top = 71
+    Width = 222
+    Caption = 'ОШИБКА: ЗНАМЕНАТЕЛЬ РАВЕН НУЛЮ'
+    ParentColor = False
+    Visible = False
+  end
+end

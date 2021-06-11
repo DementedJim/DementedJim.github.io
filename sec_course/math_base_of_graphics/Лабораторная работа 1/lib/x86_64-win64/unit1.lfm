@@ -1,0 +1,179 @@
+object Form1: TForm1
+  Left = 201
+  Height = 619
+  Top = 46
+  Width = 718
+  Caption = 'Form1'
+  ClientHeight = 619
+  ClientWidth = 718
+  LCLVersion = '1.8.4.0'
+  object Image1: TImage
+    Left = 32
+    Height = 260
+    Top = 36
+    Width = 672
+  end
+  object Label1: TLabel
+    Left = 208
+    Height = 28
+    Top = 328
+    Width = 10
+    Caption = 'a'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object KA: TEdit
+    Left = 228
+    Height = 36
+    Top = 328
+    Width = 88
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Label2: TLabel
+    Left = 392
+    Height = 28
+    Top = 328
+    Width = 12
+    Caption = 'b'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 200
+    Height = 28
+    Top = 384
+    Width = 45
+    Caption = 'Xmin'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 376
+    Height = 28
+    Top = 384
+    Width = 48
+    Caption = 'Xmax'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label5: TLabel
+    Left = 200
+    Height = 28
+    Top = 440
+    Width = 44
+    Caption = 'Ymin'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Label6: TLabel
+    Left = 376
+    Height = 28
+    Top = 440
+    Width = 47
+    Caption = 'Ymax'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object KB: TEdit
+    Left = 416
+    Height = 36
+    Top = 328
+    Width = 88
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 1
+  end
+  object xmn: TEdit
+    Left = 252
+    Height = 36
+    Top = 384
+    Width = 64
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 2
+  end
+  object xmx: TEdit
+    Left = 440
+    Height = 36
+    Top = 384
+    Width = 64
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 3
+  end
+  object ymn: TEdit
+    Left = 252
+    Height = 36
+    Top = 440
+    Width = 64
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 4
+  end
+  object ymx: TEdit
+    Left = 440
+    Height = 36
+    Top = 440
+    Width = 64
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 5
+  end
+  object Label7: TLabel
+    Left = 32
+    Height = 28
+    Top = 496
+    Width = 218
+    Caption = 'Количество разбиений:'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object Kn: TEdit
+    Left = 252
+    Height = 36
+    Top = 496
+    Width = 64
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 6
+  end
+  object Label8: TLabel
+    Left = 376
+    Height = 28
+    Top = 496
+    Width = 146
+    Caption = 'Интеграл равен'
+    Font.Height = -20
+    ParentColor = False
+    ParentFont = False
+  end
+  object res: TEdit
+    Left = 528
+    Height = 36
+    Top = 496
+    Width = 64
+    Font.Height = -20
+    ParentFont = False
+    TabOrder = 7
+  end
+  object Button1: TButton
+    Left = 240
+    Height = 42
+    Top = 552
+    Width = 238
+    Caption = 'Решить'
+    Font.Height = -20
+    OnClick = Button1Click
+    ParentFont = False
+    TabOrder = 8
+  end
+end

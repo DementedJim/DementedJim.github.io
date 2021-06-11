@@ -1,0 +1,127 @@
+object Form1: TForm1
+  Left = 468
+  Height = 551
+  Top = 318
+  Width = 576
+  Caption = 'Построение треугольника по координатам'
+  ClientHeight = 551
+  ClientWidth = 576
+  LCLVersion = '1.6.4.0'
+  object Edit1: TEdit
+    Left = 198
+    Height = 23
+    Top = 352
+    Width = 82
+    NumbersOnly = True
+    TabOrder = 0
+    Text = '0'
+  end
+  object Edit2: TEdit
+    Left = 299
+    Height = 23
+    Top = 352
+    Width = 82
+    NumbersOnly = True
+    TabOrder = 1
+    Text = '0'
+  end
+  object Edit3: TEdit
+    Left = 299
+    Height = 23
+    Top = 388
+    Width = 82
+    NumbersOnly = True
+    TabOrder = 2
+    Text = '0'
+  end
+  object Edit4: TEdit
+    Left = 198
+    Height = 23
+    Top = 388
+    Width = 82
+    NumbersOnly = True
+    TabOrder = 3
+    Text = '0'
+  end
+  object Edit5: TEdit
+    Left = 198
+    Height = 23
+    Top = 422
+    Width = 82
+    NumbersOnly = True
+    TabOrder = 4
+    Text = '0'
+  end
+  object Edit6: TEdit
+    Left = 299
+    Height = 23
+    Top = 422
+    Width = 82
+    NumbersOnly = True
+    TabOrder = 5
+    Text = '0'
+  end
+  object Label1: TLabel
+    Left = 128
+    Height = 15
+    Top = 354
+    Width = 62
+    Caption = 'Вершина А'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 128
+    Height = 15
+    Top = 390
+    Width = 61
+    Caption = 'Вершина В'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 128
+    Height = 15
+    Top = 424
+    Width = 62
+    Caption = 'Вершина С'
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 160
+    Height = 15
+    Top = 304
+    Width = 234
+    Caption = 'Введите коорднаты вершин треугольника:'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 222
+    Height = 15
+    Top = 330
+    Width = 16
+    Caption = 'OX'
+    ParentColor = False
+  end
+  object Label6: TLabel
+    Left = 321
+    Height = 15
+    Top = 330
+    Width = 16
+    Caption = 'OY'
+    ParentColor = False
+  end
+  object Image1: TImage
+    Left = 24
+    Height = 264
+    Top = 24
+    Width = 521
+  end
+  object Button1: TButton
+    Left = 168
+    Height = 33
+    Top = 453
+    Width = 196
+    Caption = 'Нарисовать'
+    OnClick = Button1Click
+    TabOrder = 6
+  end
+end
