@@ -37,7 +37,6 @@
 <summary> <h3><font color="orange">Информационные технологии</font></h3></summary>
 
 <ul>
-
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/it/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20html.html">Введение в HTML</a></li>
 
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/it/%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86.html">Верстка таблиц</a></li>
@@ -57,24 +56,35 @@
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204">Лабораторная работа 4</a></li>
 
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%B5%D0%B9">Работа с анимацией</a></li>
-
-<li><a href=""> </a></li>
-
-<li><a href=""> </a></li>
-
 </ul>
 
 </details>
 
 
 <details>
-<summary> <h3><font color="orange"> </font></h3></summary>
+<summary> <h3><font color="orange">Информационные технологии в математике</font></h3></summary>
 
 <ul>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201">Лабораторная работа 1</a></li>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202">Лабораторная работа 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203">Лабораторная работа 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204">Лабораторная работа 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205">Лабораторная работа 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206">Лабораторная работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207">Лабораторная работа 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%208">Лабораторная работа 8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%209">Лабораторная работа 9</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/first_course/it_math/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%2010">Лабораторная работа 10</a></li>
 
 </ul>
 
