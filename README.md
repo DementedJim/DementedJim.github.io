@@ -177,11 +177,37 @@
 
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/evm_periph_devices/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%9C%D0%B0%D1%81%D1%81%D0%B8%D0%B2%D1%8B.doc">Лабораторная работа Массивы</a></li>
 
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/evm_periph_devices/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%9F%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F..doc">Лабораторная работа прерывания</a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/evm_periph_devices/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%9F%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F..doc">Лабораторная работа Прерывания</a></li>
 
 </ul>
 </details>
 
+## 2 курс
+
+<details>
+<summary> <h3><font color="orange">Анализ данных</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A01">Лабораторная работа 1</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A02">Лабораторная работа 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A03">Лабораторная работа 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A04">Лабораторная работа 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A05">Лабораторная работа 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A06">Лабораторная работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A08">Лабораторная работа 8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/sec_course/data_analysis/%D0%9B%D0%A09">Лабораторная работа 9</a></li>
+
+</ul>
+
+</details>
 
 <details>
 <summary> <h3><font color="orange"> </font></h3></summary>
@@ -196,3 +222,93 @@
 
 </details>
 
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange"> </font></h3></summary>
+
+<ul>
+
+<li><a href=""> </a></li>
+
+<li><a href=""> </a></li>
+
+</ul>
+
+</details>
