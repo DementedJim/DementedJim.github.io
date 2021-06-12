@@ -653,7 +653,7 @@
 
 <ul>
 
-<li><a href="https://github.com/DementedJim/programming">Портфолио по программированию</a></li>
+<li><a href="https://github.com/DementedJim/programming">Ссылка на портфолио</a></li>
 
 </ul>
 
