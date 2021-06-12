@@ -646,6 +646,19 @@
 
 </details>
 
+
+
+<details>
+<summary> <h3><font color="orange">Программирование</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/programming">Портфолио по программированию</a></li>
+
+</ul>
+
+</details>
+
 ## 4 курс
 
 <details>
