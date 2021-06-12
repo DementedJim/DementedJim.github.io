@@ -751,13 +751,11 @@
 </details>
 
 <details>
-<summary> <h3><font color="orange"> </font></h3></summary>
+<summary> <h3><font color="orange">Программирование</font></h3></summary>
 
 <ul>
 
-<li><a href=""> </a></li>
-
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/prog_7">Ссылка на портфолио</a></li>
 
 </ul>
 
