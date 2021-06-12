@@ -5,6 +5,7 @@
 <details>
 <summary> <h3>Информатика</h3></summary>
 
+<ul>
 + <p> <a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A22%2C%20%D0%9B%D0%A01.pdf">Лабораторная работа 1 </a></p>
 
 + <a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A22%2C%20%D0%9B%D0%A02.pdf">Лабораторная работа 2</a>
@@ -26,6 +27,8 @@
 + <a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A21%2C%20%D0%9B%D0%A010.pdf">Лабораторная работа 10</a>
 
 + <a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A21%2C%20%D0%9B%D0%A011.pdf">Лабораторная работа 11</a>
+</ul>
+
 
 + markdown list 2
 
