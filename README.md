@@ -674,39 +674,77 @@
 </details>
 
 <details>
-<summary> <h3><font color="orange"> </font></h3></summary>
+<summary> <h3><font color="orange">Информационные технологии оценки персонала</font></h3></summary>
 
 <ul>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/pers_assessment/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%201-2.docx">Лабораторные работы 1-2</a></li>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/pers_assessment/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%203-4.docx">Лабораторные работы 3-4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/pers_assessment/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%205-6.docx">Лабораторные работы 5-6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/pers_assessment/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%A1%D0%A01%20(1).pdf">Самостоятельная работа (часть 1)</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/pers_assessment/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%A1%D0%A01%20(2).pdf">Самостоятельная работа (часть 2)</a></li>
 
 </ul>
 
 </details>
 
 <details>
-<summary> <h3><font color="orange"> </font></h3></summary>
+<summary> <h3><font color="orange">Мировые информационные ресурсы и цифровые библиотеки</font></h3></summary>
 
 <ul>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%201">Работы темы 1</a></li>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%202">Работы темы 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%203">Работы темы 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%204">Работы темы 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%205">Работы темы 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%206">Работы темы 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%207">Работы темы 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/mircb/%D0%A2%D0%B5%D0%BC%D0%B0%208">Работы темы 8</a></li>
 
 </ul>
 
 </details>
 
 <details>
-<summary> <h3><font color="orange"> </font></h3></summary>
+<summary> <h3><font color="orange">Социальные и профессиональные вопросы информатики и ИТ</font></h3></summary>
 
 <ul>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%201">Работы темы 1</a></li>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%202">Работы темы 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%203">Работы темы 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%204">Работы темы 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%205">Работы темы 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%206">Работы темы 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%207">Работы темы 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%208">Работы темы 8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%209">Работы темы 9</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%2010">Работы темы 10</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%A2%D0%B5%D0%BC%D0%B0%2011">Работы темы 11</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/soc_prof_issues_of_cs/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201">Практическая работа 1</a></li>
 
 </ul>
 
