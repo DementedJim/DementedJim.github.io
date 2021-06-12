@@ -419,9 +419,255 @@
 
 <ul>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%961.pdf">Лабораторная работа 1</a></li>
 
-<li><a href=""> </a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%962.pdf">Лабораторная работа 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%963.pdf">Лабораторная работа 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%964.pdf">Лабораторная работа 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%965.pdf">Лабораторная работа 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%966.pdf">Лабораторная работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%967.pdf">Лабораторная работа 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%968.pdf">Лабораторная работа 8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/inf_protection/PDF/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1.%20%E2%84%969.pdf">Лабораторная работа 9</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Интегрированные издательские системы</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA">Аннотированный список</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%91%D1%83%D0%BA%D0%BB%D0%B5%D1%82">Буклет</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%94%D0%BE%D0%BA%D0%BB%D0%B0%D0%B4">Доклад</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%9B%D0%A05">Лабораторная работа 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%9B%D0%A06">Лабораторная работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%9C%D0%BD%D0%BE%D0%B3%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%20%D1%81%20%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8">Многостраничный документ с изображениями</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86">Создание матриц LaTeX</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/publish_systems/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20%D0%B4%D0%BB%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20LaTex">Таблица команд для форматирования LaTeX</a></li>
+
+<li><a href="">Объем произведения (авторские, бумажные и др. листы)</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%91%D0%B5%D0%B9%D0%B4%D0%B6.pdf">Дизайн бейджа</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%92%D0%A1%D0%A01.docx">ВСР1</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%98%D0%A1%D0%A01.docx">ИСР1</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%98%D0%BD%D1%84%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0%20Adobe%20InDesign.pdf">Инфографика на тему Adobe InDesign</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0%20CD.pdf">Обложка CD для портфолио</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf">Дизайн сертификата</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85%20%D1%84%D0%BE%D1%80%D0%BC%D1%83%D0%BB.tex">Таблица команд математических формул LaTeX</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%20%D0%BC%D0%B0%D1%82%D1%80%D0%B8%D1%86.pdf">Таблица команд матриц LaTeX</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A2%D0%B5%D0%B7%D0%B0%D1%83%D1%80%D1%83%D1%81.docx">Тезаурус</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A2%D0%B5%D0%BC%D0%B0%207%20%D0%92%D0%A1%D0%A0.tex">Задание темы 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A2%D0%B5%D0%BC%D0%B0%209.pdf">Создание таблиц LaTeX</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20TeXMaker.docx"> Установка TeXMaker</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/publish_systems/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9E%D1%82%D0%B7%D1%8B%D0%B2%20%D0%BE%20%D0%BA%D1%83%D1%80%D1%81%D0%B5.tex">Отзыв о курсе</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Информационные технологии и системы бизнес-аналитики</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_business_analytic_systems/1-4">Лабораторные работы 1-4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_business_analytic_systems/5-10">Лабораторные работы 5-10</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_business_analytic_systems/11">Лабораторная работа 11</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_business_analytic_systems/12">Лабораторная работа 12</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_business_analytic_systems/13-14">Лабораторные работы 13-14</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_business_analytic_systems/15-18">Лабораторные работы 15-18</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Информационные технологии в экономике и управлении</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/01">Практическая работа 1</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/02">Практическая работа 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/03">Практическая работа 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/04">Практическая работа 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/05">Практическая работа 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/06">Практическая работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/07">Практическая работа 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/08">Практическая работа 8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/09">Практическая работа 9</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/10">Практическая работа 10</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/11">Практическая работа 11</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/12">Практическая работа 12</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/13">Практическая работа 13</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/it_economics/%D0%A0%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82">Реферат</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Прикладные информационные технологии</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/pit/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B0%D0%B9%D0%B4%D0%B5%D1%80%D0%BE%D0%B2%20oAuth.docx">Список провайдеров oAuth</a></li>
+
+<li><a href="https://youtu.be/G6_fk3jY5Ng">Аутентификация oAuth</a></li>
+
+<li><a href="https://youtu.be/CPsyO5_C2Sc">Запуск dockerfile</a></li>
+
+<li><a href="https://youtu.be/InC9s9IQiyA">Модификация html и загрузка в dockerhub</a></li>
+
+<li><a href="https://youtu.be/fDeNYQS_ef8">Получение сертификата Let's encrypt для Nginx</a></li>
+
+<li><a href="https://youtu.be/j9Y6oYOFXrQ">Приложение с аутентификацией oAuth</a></li>
+
+<li><a href="https://youtu.be/n6tW_04tfyA">Установка Docker и запуск сайта или статичного приложения на NodeJS</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Сети и телекоммуникации</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.pdf">Лабораторная работа 1</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%202.pdf">Лабораторная работа 2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%203.pdf">Лабораторная работа 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%204.docx">Лабораторная работа 4</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%205.docx">Лабораторная работа 5</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%206.docx">Лабораторная работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%207.docx">Лабораторная работа 7</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%208.docx">Лабораторная работа 8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%209.docx">Лабораторная работа 9</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/networks_and_telecoms/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%2010.docx">Лабораторная работа 10</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/networks_and_telecoms/%D0%91%D0%BB%D0%BE%D0%BA%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%20%D1%81%20Virtual%20Box">Блок работ с Virtual Box</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Техника и технологии представления и публикации информации</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/present_and_publish_inf_in_web/01">Поиск и подбор материала</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/present_and_publish_inf_in_web/02">Представление информации в виде презентации</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/present_and_publish_inf_in_web/03">Средства создания резюме и сопроводительного письма</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/present_and_publish_inf_in_web/04">Электронные формы. Пользовательские шаблоны</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/present_and_publish_inf_in_web/05">Автоматизация представления данных средствами электронных таблиц</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/present_and_publish_inf_in_web/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D0%B5">Итоговые задания</a></li>
+
+</ul>
+
+</details>
+
+<details>
+<summary> <h3><font color="orange">Управление программными проектами</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/upp/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%93%D0%B0%D0%BD%D1%82%D0%B0">Диаграмма Ганта</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/upp/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0">Дизайн программного продукта</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/upp/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D0%B8%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D0%BB%D0%BB%D0%B5%D0%BA%D1%82-%D0%BA%D0%B0%D1%80%D1%82%D0%B0.jpg">Программная инженерия интеллект-карта</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/third_course/upp/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A23%2C%20%D0%AE%D0%B7%D0%B0%D0%B1%D0%B8%D0%BB%D0%B8%D1%82%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.docx">Юзабилити-тестирование</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/third_course/upp/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0">Курсовая работа "Создание персонального сайта для композитора"</a></li>
+
+</ul>
+
+</details>
+
+## 4 курс
+
+<details>
+<summary> <h3><font color="orange">IT-рекрутмент</font></h3></summary>
+
+<ul>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%201-2.docx">Лабораторные работы 1-2</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%203.pdf">Лабораторная работа 3</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%204-5(1).docx">Лабораторные работы 4-5 (часть 1)</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%204-5(2).pdf">Лабораторные работы 4-5 (часть 2)</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%204-5(3).docx">Лабораторные работы 4-5 (часть 3)</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A06.pptx">Лабораторная работа 6</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%9B%D0%A0%207-8.docx">Лабораторные работы 7-8</a></li>
+
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/fourth_course/it_recr/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A24%2C%20%D0%A1%D0%B0%D0%BC%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.docx">Самостоятельная работа</a></li>
 
 </ul>
 
