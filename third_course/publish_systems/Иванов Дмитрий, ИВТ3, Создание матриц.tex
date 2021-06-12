@@ -1,0 +1,227 @@
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+
+\usepackage{hyperref}
+
+%Заговолок
+\author{Иванов Дмитрий, ИВТ3}
+\title{Создание матриц средствами \LaTeX}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+\section{Задание 1}
+\textbf{Пример 1. Умножение матрицы на число} \\
+\small{\textbf{Дано:}}
+
+\begin{displaymath}
+\mathbf{A} =
+\left( \begin{array}{ccc}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+\end{array} \right)
+\end{displaymath}
+Матрица A\\
+Число $k=2$.\\
+\small{\textbf{Найти:}}\\
+Произведение матрицы на число: $A \times k = B$\\
+B - ?\\
+\textbf{Решение:}
+\begin{flushleft}
+Для того чтобы умножить матрицу A на чисо $k$ нужно каждый элемент\\
+матрицы A умножить на это число.\\
+Таким образом, произведение матрицы A на число k есть новая матрица:
+\end{flushleft}
+
+
+\begin{displaymath}    
+B = 2 \times A = 2 \times  \left( \begin{array}{ccc}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+\end{array} \right) = \left( \begin{array}{ccc}
+2 & 4 & 6 \\
+8 & 10 & 12 \\
+\end{array} \right) \\ 
+$$
+\end{displaymath}
+
+\textbf{Ответ:}
+$\mathbf{B} =  \left( \begin{array}{ccc}
+2 & 4 & 6 \\
+8 & 10 & 12 \\\end{array} \right)$
+
+\newpage
+
+\section{Задание 2}
+\textbf{Пример 2. Умножение Матриц} \\
+\small{\textbf{Дано:}}
+
+
+Матрциа $\mathbf{A} =
+\left( \begin{array}{ccc}
+2 & 3 & 1 \\
+-1 & 0 & 1 \\
+\end{array} \right)\\$
+
+Матрица $\mathbf{B} =
+\left( \begin{array}{cc}
+2 & 1  \\
+-1 & 1 \\
+3 & -2 \\
+\end{array} \right)\\$
+\small{\textbf{Найти:}}\\
+Произведение матрицы на число: A \times B = C \\
+C - ?\\
+\small{\textbf{Решение:}}
+\begin{flushleft}
+\footnotesize Каждый элемент матрицы $C = A \times B$ , расположенный в $i$-й строке и $j$-м столбце,
+равен сумме произведений элементов $i$-й строки матрицы A на соответвующие \\
+элементы $j$-го стобца матрицы B. Строки матрицы A умножаем на столбцы \\
+матрицы B и получаем: 
+\end{flushleft}
+\begin{displaymath}    
+\\
+C = A \times B =\left( \begin{array}{ccc}
+2 & 3 & 1 \\
+-1 & 0 & 1 \\
+\end{array} \right) \times \left( \begin{array}{cc}
+2 & 1  \\
+-1 & 1 \\
+3 & -2 \\
+\end{array} \right) = \\
+= \left( \begin{array}{cc}
+2 \times 2 + 3 \times (-1) + 1 \times 3 & 2 \times 1 + 3 \times 1 + 1 \times (-1)  \\
+-1 \times 2 + 0 \times (-1) + 1 \times 3 & -1 \times 1 + 0 \times 1 + 1 \times (-2)\\
+\end{array} \right)\\ 
+С = A \times B =  \left( \begin{array}{cc}
+4 & 3 \\
+1 & -3\\
+\end{array} \right)
+\end{displaymath}
+
+\textbf{Ответ:} 
+$\mathbf{C} =  \left( \begin{array}{cc}
+4 & 3 \\
+1 & -3\\
+\end{array} \right)
+$
+   
+\newpage
+
+\section{Задание 3}
+\textbf{Пример 3. Транспанирование матриц} \\
+\small{\textbf{Дано:}}
+
+Матрциа $\mathbf{A} =
+\left( \begin{array}{ccc}
+7 & 8 & 9 \\
+1 & 2 & 3 \\
+\end{array} \right)$\\
+
+\small{\textbf{Найти:}}\\
+Найти матрицу транспонированную данной.\\
+$A^{T} -?$ \\
+\small{\textbf{Решение:}}\\
+Транспонирование матрицы A заключается в замене строк матрицы ее
+столбцами с сохранением номеров. Полученная матрица обозначается\\
+через $A^{T}$
+
+\begin{displaymath}
+\\
+\mathbf{A} =
+\left( \begin{array}{ccc}
+7 & 8 & 9 \\
+1 & 2 & 3 \\
+\end{array} \right) \Rightarrow A^{T} = \left( \begin{array}{cc}
+7 & 1  \\
+8 & 2 \\
+9 & 3\\
+\end{array} \right)
+\end{displaymath}
+
+\small{\textbf{Ответ:}}  $A^{T} = \left( \begin{array}{cc}
+7 & 1  \\
+8 & 2 \\
+9 & 3\\
+\end{array} \right)$
+
+\newpage
+
+\section{Задание 4}
+\textbf{Пример 4. Обратная матрица} \\
+\small{\textbf{Дано:}} \\
+Матрица $\mathbf{A} =
+\left( \begin{array}{cc}
+2 & -1  \\
+3 & 1 \\
+\end{array} \right)$ \\
+
+\small{\textbf{Найти:}} \\
+Найти обратную матрицу для матрицы A.\\
+A^{-1} - ? \\
+
+\small{\textbf{Решение:}} \\
+
+Находим $\det$ A и проверяем $\det A \neq 0$:
+\begin{displaymath}
+\\
+\det A = \begin{bmatrix}
+2 & -1\\
+3 & 1 \\
+\end{bmatrix} = 2 \times 1 - 3 \times (-1) = 5
+\end{displaymath}\\
+
+\footnotesize{$\det A = 5 \neq 0.$}\\
+
+Составляем вспомогательную матрицу $A^{V}$ из алгебраичиских\\
+дополнений $A_{i}{j}$:
+\begin{displaymath}
+    A^{V} = \left(\begin{array}{cc}
+    1 & -3  \\
+    1 & 2 \\
+  \end{array} \right)
+\end{displaymath}\\
+Транспонируем матрицу A$^{V}$:
+\begin{displaymath}
+\\
+    \left(A^{V} \right)^{T}  = \left(\begin{array}{cc}
+    1 & 1  \\
+    -3 & 2 \\
+  \end{array} \right)
+\end{displaymath} \\
+
+Каждый элемент, полученной матрицы, делим на \det A: 
+\begin{displaymath}
+\\
+    A^{-1}  = \frac{1}{\det A}\left(A^{V}\right)^{T} = \frac{1}{5} \times
+    \left(\begin{array}{cc}
+    1 & 1  \\
+    -3 & 2 \\
+  \end{array} \right) = 
+   \left(\begin{array}{cc}
+    \frac{1}{5} & \frac{1}{5}  \\
+    \frac{3}{5} & \frac{2}{5} \\
+  \end{array} \right) 
+\end{displaymath} \\
+
+\textbf{Ответ:} $ \mathbf{A}^{-1} = \left(\begin{array}{cc}
+    \frac{1}{5} & \frac{1}{5}  \\
+    \frac{3}{5} & \frac{2}{5} \\
+  \end{array} \right) $
+\end{document}

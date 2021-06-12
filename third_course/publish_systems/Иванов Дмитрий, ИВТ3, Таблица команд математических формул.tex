@@ -1,0 +1,59 @@
+\documentclass[a4paper,12pt]{article} % тип документа
+% report, book
+%  Русский язык
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+\usepackage{wasysym}
+\usepackage{array}
+\usepackage{hyperref}
+%Заговолок
+\author{Иванов Дмитрий, ИВТ3}
+\title{Таблица математических команд \LaTeX{}}
+\date{\today}
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+
+
+\flushleft
+\begin{tabular}{|l|l|}
+  \hline
+  \multicolumn{2}{|c|}{Команды} \\
+  \hline
+  Назначение команды & $\backslash$Вид \\
+  \hline
+  Формула  & \$ x+y=z \$ \\
+  \hline
+  Знаки умножения  & cdot и times  \\
+  \hline
+  Корни  &  sqrt[n]\{подкоренное выражение\} \\
+  \hline
+   Символ бесконечности  &  infty \\
+   \hline
+   Неравенства  & \&lt \&gt ge le\\
+   \hline
+    Дроби & \$ a+b/c \$ \\
+   \hline
+  Числитель над знаменателем  & \$ a+frac\{b\}\{c\} \$  \\
+  \hline
+  Степени & \$ a\^2, b\^\{34\}, r\^ \{abs\}, k\^ \{l\^ \{2\}\} \$ \\
+  \hline
+  Индексы & \$ a\_1, b\_\{34\}, r\_\{abs\}, k\_\{l\_\{1\}\} \$ \\
+  \hline
+  степени и индекс одновременно & \$ a\_3\^2  \$ \\
+  \hline
+  формула посредине отдельной строки & \$\$ x+y=z \$\$ \\
+  \hline
+  Пределы  & lim, стрелки to\\
+  \hline
+  Многоточие  & ldots, ddots, vdots\\
+  \hline
+  Матрица  &  begin\{array\}\{clr кол-во столб.\} 1 \& 2 end\{array\}  \\
+  \hline
+\end{tabular}
+
+\end{document} % конец документа

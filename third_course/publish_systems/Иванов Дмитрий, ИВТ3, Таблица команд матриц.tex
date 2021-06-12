@@ -1,0 +1,88 @@
+\documentclass[a4paper,12pt]{article} % тип документа
+% report, book
+%  Русский язык
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+\usepackage{wasysym}
+\usepackage{array}
+\usepackage{hyperref}
+%Заговолок
+\author{Иванов Дмитрий, ИВТ3}
+\title{Таблица  команд матриц в \LaTeX{}}
+\date{\today}
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+
+\flushleft
+\begin{tabular}{|l|l|}
+  \hline
+  \multicolumn{2}{|c|}{Матрицы в LaTex} \\
+  \hline
+  \backslash \text{команды} \{\text{окружение}\}  & Назначение, примечание \\
+    \hline
+  begin\{\backslash tabular\}\{|l|l|\} текст \& текст end\{\backslash tabular\} & Таблица\\
+  \hline
+  begin\{\backslash array\}\{clr\} 1 \& 2 end\{\backslash array\} & Матрица \\
+  \hline
+  \begin{matrix}\backslash begin\{pmatrix\}
+\backslash alpha \& & \backslash beta \backslash\backslash\\
+\backslash gamma \& & \backslash delta
+\backslash end\{pmatrix\} \end{matrix}  & Круглые скобки:
+\begin{pmatrix}
+  \alpha& \beta\\
+  \gamma& \delta
+\end{pmatrix} \\
+  \hline
+    \begin{matrix}\backslash begin\{Bmatrix\}
+\backslash alpha \& & \backslash beta \backslash\backslash\\
+\backslash gamma \& & \backslash delta
+\backslash end\{Bmatrix\} \end{matrix}  & Фигурные скобки:
+\begin{Bmatrix}
+\alpha& \beta\\
+\gamma& \delta
+\end{Bmatrix}\\
+  \hline
+  \begin{matrix}\backslash begin\{bmatrix\}
+\backslash alpha \& & \backslash beta \backslash\backslash\\
+\backslash gamma \& & \backslash delta
+\backslash end\{bmatrix\} \end{matrix}  & Квадратными скобками:
+\begin{bmatrix}
+\alpha& \beta\\
+\gamma& \delta
+\end{bmatrix}\\
+  \hline
+  \begin{matrix}\backslash begin\{matrix\}
+\backslash alpha \& & \backslash beta \backslash\backslash\\
+\backslash gamma \& & \backslash delta
+\backslash end\{matrix\} \end{matrix}  &  Матрица без скобок:
+\begin{matrix}
+\alpha& \beta\\
+\gamma& \delta
+\end{matrix} \\
+ \hline
+  \begin{matrix}\backslash begin\{vmatrix\}
+\backslash alpha \& & \backslash beta \backslash\backslash\\
+\backslash gamma \& & \backslash delta
+\backslash end\{vmatrix\} \end{matrix}  & Одинарный модуль:
+\begin{vmatrix}
+  \alpha& \beta\\
+  \gamma& \delta
+\end{vmatrix}\\
+  \hline
+   \begin{matrix}\backslash begin\{Vmatrix\}
+\backslash alpha \& & \backslash beta \backslash\backslash\\
+\backslash gamma \& & \backslash delta
+\backslash end\{Vmatrix\} \end{matrix}  & Двойной модуль (норма):
+\begin{Vmatrix}
+  \alpha& \beta^{*}\\
+  \gamma^{*}& \delta
+\end{Vmatrix}\\
+  \hline
+\end{tabular}
+
+\end{document} % конец документа

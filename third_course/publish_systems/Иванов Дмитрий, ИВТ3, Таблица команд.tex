@@ -1,0 +1,48 @@
+\documentclass[a4paper,12pt]{article} % тип документа
+
+% report, book
+
+%  Русский язык
+
+\usepackage[T2A]{fontenc}			% кодировка
+\usepackage[utf8]{inputenc}			% кодировка исходного текста
+\usepackage[english,russian]{babel}	% локализация и переносы
+
+
+% Математика
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools} 
+
+
+\usepackage{wasysym}
+
+\usepackage{hyperref}
+
+%Заговолок
+\author{Иванов Дмитрий, ИВТ3}
+\title{Таблица команд для форматирования технического текста в \LaTeX{}}
+\date{\today}
+
+
+\begin{document} % начало документа
+\maketitle
+\newpage
+
+\begin{tabular}{ | l | l | }
+\hline
+Назначение команды & Вид (написание) команды \\ \hline
+\tiny{Самый маленький размер шрифта} & \string\tiny \\
+\scriptsize{Меньше меньшего размер шрифта} & \string\scriptsize \\
+\footnotesize{Меньший размер шрифта} & \string\footnotesize \\
+\small{Маленький шрифта} & \string\small\\
+Символ \# \ & \string\# или \string\textnumbersig \\
+Символ \$ \ & \string\$ или \string\textdollar \\
+Символ \textasciicircum \ & \string\textasciicircum \\
+Символ \& \ & \string\& или \string\textampersand \\
+Символы \{ и \} \ & \string\{ и \string\} соответсвенно \\
+Символ \textasciitilde \ & \string\textasciitilde \\
+Игнорирование разрыва строки & \string\textit \\
+
+\hline
+
+\end{tabular}
+\end{document}
