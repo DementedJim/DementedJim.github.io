@@ -764,27 +764,6 @@
 </details>
 
 <details>
-<summary> <h3><font color="orange">Теория информационных процессов и систем</font></h3></summary>
-
-<ul>
-
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/theory_of_inform_proc_and_systems/%D0%98%D0%B7%20%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D0%B9%20%D0%B2%20%D1%84%D0%B8%D0%B1%D0%B1%D0%BE%D0%BD%D0%B0%D1%87%D0%B8%D0%B5%D0%B2%D1%83%20cc">Перевод из десятичной в фиббоначиеву cc</a></li>
-
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/theory_of_inform_proc_and_systems/%D0%9A%D0%BE%D0%B4%20%D0%93%D0%BE%D0%BB%D0%BE%D0%BC%D0%B1%D0%B0">Код Голомба</a></li>
-
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/theory_of_inform_proc_and_systems/%D0%9A%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A0%D0%B0%D0%B9%D1%81%D0%B0">Код Райса</a></li>
-
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/theory_of_inform_proc_and_systems/%D0%9A%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%A5%D0%B0%D1%84%D1%84%D0%BC%D0%B0%D0%BD%D0%B0">Код Хаффмана</a></li>
-
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/tree/master/fourth_course/theory_of_inform_proc_and_systems/%D0%9D%D0%B5%D0%B3%D0%B0%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B">Нега системы счисления</a></li>
-
-
-
-</ul>
-
-</details>
-
-<details>
 <summary> <h3><font color="orange">Программирование</font></h3></summary>
 
 <ul>
