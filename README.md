@@ -20,9 +20,9 @@
 
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A21%2C%20%D0%9B%D0%A07.pdf">Лабораторная работа 7</a></li>
 
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A22%2C%20%D0%9B%D0%A08.pdf">Лабораторная работа 8</a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A21%2C%20%D0%9B%D0%A08.pdf">Лабораторная работа 8</a></li>
 
-<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A22%2C%20%D0%9B%D0%A09.pdf">Лабораторная работа 9</a></li>
+<li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A21%2C%20%D0%9B%D0%A09.pdf">Лабораторная работа 9</a></li>
 
 <li><a href="https://github.com/DementedJim/DementedJim.github.io/blob/master/first_course/informatics/%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%2C%20%D0%98%D0%92%D0%A21%2C%20%D0%9B%D0%A010.pdf">Лабораторная работа 10</a></li>
 
